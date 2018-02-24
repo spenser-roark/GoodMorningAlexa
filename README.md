@@ -29,4 +29,3 @@ Is it safe to bike today?
 2 ask init
   * Note: I was on a server so you may need to use the no-browser option
 3 ask clone -s <skill id>
-
