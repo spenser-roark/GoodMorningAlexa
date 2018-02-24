@@ -1,0 +1,23 @@
+{
+  "name": "good_morning",
+  "version": "1.0.0",
+  "description": "Alexa good morning app",
+  "main": "index.js",
+  "dependencies": {
+    "forecast": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spenser-roark/GoodMorningAlexa.git"
+  },
+  "author": "Spenser Roark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spenser-roark/GoodMorningAlexa/issues"
+  },
+  "homepage": "https://github.com/spenser-roark/GoodMorningAlexa#readme"
+}
