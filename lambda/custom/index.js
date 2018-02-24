@@ -29,5 +29,5 @@ function buildResponse(sessionAttributes, speechletResponse) {
 
 exports.handler = (event, context, callback) => {
 	let sessionAttributes = {};
-    callback(null, buildResponse(sessionAttributes, buildSpeechletResponse("Test", "Hello World", null, true)));
+	callback(null, buildResponse(sessionAttributes, buildSpeechletResponse("Test", "Hello World", null, true)));
 };
