@@ -5,8 +5,7 @@ Is it safe to bike today?
 
 1. Current weather
 2. Current temp
-3. Expected weather at noon
-4. expected temp at noon
+3. Expected weather
 
 
 # Stretch
