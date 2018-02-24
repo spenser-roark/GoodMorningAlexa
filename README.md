@@ -19,6 +19,7 @@ Is it safe to bike today?
 ### Dependencies
 1 ask cli, `npm install -g ask-cli`
   * You may need to sudo if you so choose
+
 2 aws cli, `sudo apt-get install awscli`
 
 ### Commands
@@ -26,6 +27,8 @@ Is it safe to bike today?
   * Follow the prompts for the key and secret key
   1. Default region name: `us-east-1`
   2. Default output format: `text`
+
 2 ask init
   * Note: I was on a server so you may need to use the no-browser option
+
 3 ask clone -s <skill id>
