@@ -1,0 +1,52 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "good morning",
+      "intents": [
+        {
+          "name": "GoodMorning",
+          "samples": [
+            "Wake up"
+          ]
+        },
+        {
+          "name": "GoodMorningWeather",
+          "samples": [
+            "What is the weather",
+            "What's the weather",
+            "What is the weather like today",
+            "What's the weather like today",
+            "Weather",
+            "What is the weather please",
+            "Can you tell me the weather please"
+          ]
+        },
+        {
+          "name": "GoodMorningTemperature",
+          "samples": [
+            "What is the temperature",
+            "What's the temperature",
+            "What is the temperature like today",
+            "What's the temperature like today",
+            "Temperature",
+            "What is the temperature please",
+            "Can you tell me the temperature please",
+            "What is the temp",
+            "What's the temp",
+            "What is the temp like today",
+            "What's the temp like today",
+            "Temp",
+            "What is the temp please",
+            "Can you tell me the temp please"
+          ]
+        },
+        {
+          "name": "GoodMorningStart"
+        },
+        {
+          "name": "AMAZON.HelpIntent"
+        }
+      ]
+    }
+  }
+}
